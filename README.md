@@ -1,5 +1,5 @@
 # ETH Wallet bip39 mnemonics Brute Forcer
-##THIS IS A COPY OF EXISTING REPOSITORY
+## THIS IS A COPY OF EXISTING REPOSITORY
 ## Features:
 - Fast, very fast. On modern home computer it can do 20,000-50,000 tries/second
 - Easy to use
